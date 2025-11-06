@@ -1,0 +1,8 @@
+Prio: Urgent
+
+Name: User
+
+Submitted: 2025-11-06T08:56:01.794-05:00
+
+Description:
+The user is experiencing a complete loss of internet connectivity, preventing them from working.
